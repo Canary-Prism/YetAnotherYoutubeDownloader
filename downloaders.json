@@ -1,3 +1,26 @@
 [
-    {}
+    {
+        "url" : "https://y2mate.tools",
+        "method" : {
+            "query" : {
+                "type" : "appendToUrl"
+            },
+            "quality_options" : {
+                
+            }
+        }
+    },
+    {
+        "url" : "https://snapsave.io/en26",
+        "method" : {
+            "query" : {
+                "type" : "field",
+                "form_id" : "search-form",
+                "field_method" : 0,
+                "field_query" : "s_input",
+                "button_method" : 1,
+                "button_query" : "//button[@type='button']"
+            }
+        }
+    }
 ]
