@@ -7,7 +7,7 @@ Do you like having to pay for Youtube Premium? Do you like using crappy internet
 3. ???
 4. profit
 
-### [Download](https://github.com/Rex-tc/RotationCalendarGenerator/releases/)
+### [Download](https://github.com/Rex-tc/YetAnotherYoutubeDownloader/releases/)
 
 I'm assuming you know how to use GitHub. If not then here:
 
