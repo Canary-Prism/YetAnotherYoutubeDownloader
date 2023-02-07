@@ -3,10 +3,16 @@
         "url" : "https://y2mate.tools",
         "method" : {
             "query" : {
-                "type" : "appendToUrl"
+                "type" : 0
             },
             "quality_options" : {
-                
+                "type" : 0,
+                "table_method" : 3,
+                "table_query" : 0,
+                "quality_column" : 0,
+                "quality_tag" : "a",
+                "link_column" : 2,
+                "link_tag" : "a"
             }
         }
     },
@@ -14,12 +20,16 @@
         "url" : "https://snapsave.io/en26",
         "method" : {
             "query" : {
-                "type" : "field",
-                "form_id" : "search-form",
-                "field_method" : 0,
-                "field_query" : "s_input",
-                "button_method" : 1,
+                "type" : 1,
+                "form_method" : 0,
+                "form_query" : "search-form",
+                "input_method" : 0,
+                "input_query" : "q",
+                "button_method" : 2,
                 "button_query" : "//button[@type='button']"
+            },
+            "quality_options" : {
+                "type" : 1
             }
         }
     }
