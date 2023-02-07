@@ -8,8 +8,8 @@
             },
             "quality_options" : {
                 "type" : 0,
-                "table_method" : 2,
-                "table_query" : "//*[@id='mp4']/table",
+                "table_method" : 3,
+                "table_query" : 0,
                 "quality_column" : 0,
                 "quality_tag" : "a",
                 "link_column" : 2,
